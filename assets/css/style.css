@@ -1,0 +1,28 @@
+body {
+    margin-left: 50px;
+}
+.navbar {
+    margin-right: 50px;
+}
+
+.media-object {
+    float: left;
+    width: 64px;
+    height: auto;
+}
+.bio-image {
+    width: 300px;
+    height: auto;
+}
+
+.panel-footer {
+    margin-right: 50px;
+}
+
+.img-thumbnail {
+    width: 49%;
+}
+
+.media {
+    margin: 10px;
+}
